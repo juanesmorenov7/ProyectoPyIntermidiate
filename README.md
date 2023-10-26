@@ -18,3 +18,5 @@ Los conceptos estudiados y aplicados en este proyecto son:
 6. Manejo de Errores.
 7. Manejo básico de archivos CSV.
 8. Manejo básico libería "Matplotlib"
+
+#3 En la carpeta "Hangman Game" se encuentra el código de un juego del "Ahorcado" en Python. En este Código se utiliza un código más complejo y donde se aplican todos los conocimientos adquiridos en los cursos de python de Platzi

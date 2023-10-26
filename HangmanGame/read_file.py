@@ -2,7 +2,7 @@ import unicodedata
 import random
 
 def file():
-    with open("C:/Users/esteban.moreno/Desktop/Juanes/Platzi/curso_intermedio_py/Retofinal/data.txt","r", encoding='utf-8') as f:
+    with open("C:/Users/esteban.moreno/Desktop/Juanes/Platzi/ProyectoPyIntermidiate/HangmanGame/data.txt","r", encoding='utf-8') as f:
         lines : str = f.readlines()
     lines2 : StopIteration = [line.replace("\n","") for line in lines]
 
